@@ -1,0 +1,2 @@
+Best path found: [5, 7, 4, 0, 13, 6, 1, 2, 11, 3, 14, 12, 10, 8, 9]
+Total distance: 3.83
